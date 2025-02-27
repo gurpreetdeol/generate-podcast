@@ -1,1 +1,1 @@
-# generate-podcast-marketplace
+# generate-podcast-for-marketplace
